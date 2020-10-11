@@ -1,8 +1,9 @@
+![Awesome QUIC Logo](https://github.com/fanweixiao/awesome-quic/blob/main/awesome-quic-logo.png?raw=true)
 # Awesome Quic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of various awesome lists for videos, pentesters, libraries and frameworks.
 
-> QUIC is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3.
+**QUIC** is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3.
 
 ---
 
@@ -25,8 +26,8 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ### C/C++
 
-* Microsoft's [MsQuic](https://github.com/microsoft/msquic)
-* Facebook's [mvfst](https://github.com/facebookincubator/mvfst)
+* Microsoft's [MsQuic](https://github.com/microsoft/msquic) `draft-31`
+* Facebook's [mvfst](https://github.com/facebookincubator/mvfst) 
 * [ats](https://cwiki.apache.org/confluence/display/TS/QUIC) is QUIC implementation in Apache Traffic Server  
 * [Chromium](https://www.chromium.org/quic/playing-with-quic)'s QUIC Implementation (`draft-29` supported in Chrome 85.0.4171.0 and later)
 * LiteSpeed QUIC and HTTP/3 library [Isquic](https://github.com/litespeedtech/lsquic)
@@ -53,8 +54,8 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 ### Haskell
 
-* `draft-27` [Haskell quic](https://github.com/kazu-yamamoto/quic)
+* [Haskell quic](https://github.com/kazu-yamamoto/quic) `draft-27`
 
 ### Java
 
-* `draft-29` [kwik](https://bitbucket.org/pjtr/kwik/)
+* [kwik](https://bitbucket.org/pjtr/kwik/) `draft-29`
