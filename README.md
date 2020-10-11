@@ -1,4 +1,4 @@
-# Awesome Quic
+# Awesome Quic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of various awesome lists for videos, pentesters, libraries and frameworks.
 
