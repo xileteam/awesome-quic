@@ -9,6 +9,8 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 # QUIC Weekly
 
+Telegram Group: [t.me/quic_weekly](https://t.me/quic_weekly)
+
 ## 14.OCT.2020
 
 * **Adoption** [Chrome is deploying HTTP/3 and IETF QUIC](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html)
