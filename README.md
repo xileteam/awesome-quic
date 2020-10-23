@@ -13,6 +13,7 @@ Telegram Group: [t.me/quic_weekly](https://t.me/quic_weekly)
 
 ## 21.OCT.2020
 * 📢 QUIC protocol is finally in [IETF last call](https://mailarchive.ietf.org/arch/msg/ietf-announce/py1vC4Iuzq18Je4rwF69029oVOI/). 
+  * Cloudflare: [A Last Call for QUIC, a giant leap for the Internet](https://blog.cloudflare.com/last-call-for-quic/)
 * 📢 QUIC draft-32 documents are out:
   * Transport: https://tools.ietf.org/html/draft-ietf-quic-transport-32
   * Recovery: https://tools.ietf.org/html/draft-ietf-quic-recovery-32
