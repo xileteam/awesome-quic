@@ -1,7 +1,7 @@
 QUIC Weekly - 20201014期
 ---
 
-Telegram群：[t.me/quic_weekly](https://t.me/quic_weekly)
+线上订阅：[discord/quic](https://discord.gg/CTH3wv9)
 
 * **Adoption** [Chrome 正在部署 HTTP/3 和 IETF QUIC](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html)
   * 当前最新的 Google QUIC 版本（Q050）与 IETF QUIC 有很多相似之处。但是到目前为止，大多数 Chrome 用户在未启用某些命令行选项的情况下没有与 IETF QUIC 服务器通信。
