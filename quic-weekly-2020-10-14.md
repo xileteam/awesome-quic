@@ -1,7 +1,7 @@
 QUIC Weekly - 20201014
 ---
 
-Telegram Group: [t.me/quic_weekly](https://t.me/quic_weekly)
+Online Community：[discord/quic](https://discord.gg/CTH3wv9)
 
 * **Adoption** [Chrome is deploying HTTP/3 and IETF QUIC](https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html)
   * current latest Google QUIC version (Q050) has many similarities with IETF QUIC. But up until now, the majority of Chrome users didn't communicate with IETF QUIC servers without enabling some command-line options.
