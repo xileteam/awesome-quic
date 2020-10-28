@@ -1,7 +1,7 @@
 QUIC Weekly - 20201021
 ---
 
-Telegram Group: [t.me/quic_weekly](https://t.me/quic_weekly)
+Online Community：[discord/quic](https://discord.gg/CTH3wv9)
 
 * 📢 QUIC protocol is finally in [IETF last call](https://mailarchive.ietf.org/arch/msg/ietf-announce/py1vC4Iuzq18Je4rwF69029oVOI/). 
 * 📢 QUIC draft-32 documents are out:
