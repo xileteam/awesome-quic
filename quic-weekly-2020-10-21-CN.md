@@ -1,4 +1,4 @@
-QUIC Weekly - 20201021
+QUIC Weekly - 20201021期
 ---
 
 线上订阅：[discord/quic](https://discord.gg/CTH3wv9)
