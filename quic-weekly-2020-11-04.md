@@ -9,4 +9,5 @@ QUIC Weekly - 20201104
 ---
 
 * 📢 **load-balancers** has [Merged PR of Use POSIX timestamp](https://github.com/quicwg/load-balancers/pull/56/files)
+* 📢 **load-balancers** [draft-ietf-quic-load-balancers-05 comes out, compare with draft-04](https://www.ietf.org/rfcdiff?url1=draft-ietf-quic-load-balancers-04&url2=draft-ietf-quic-load-balancers-05)
 * **Adoption** [Apple's Multipath transport usage scenario](https://github.com/quicwg/wg-materials/blob/master/interim-20-10/Multipath%20transports%20at%20Apple.pdf)
