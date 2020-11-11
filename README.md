@@ -84,6 +84,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | [Pluginized QUIC](https://github.com/p-quic/pquic)               | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
 | [quant](https://github.com/NTAP/quant)                         | draft-32draft-32                                              | library, client, server                          | TLS 1.3                 |
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
+| [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
 
 ### Rust
 
@@ -121,5 +122,5 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name | Version  | Roles           | Handshake |
 |------|----------|-----------------|-----------|
-| [kwik](https://bitbucket.org/pjtr/kwik) | draft-29 | library, client | TLS 1.3   |
+| [kwik](https://bitbucket.org/pjtr/kwik) | draft-29, draft-30, draft-31, draft-32 | library, client | TLS 1.3   |
 
