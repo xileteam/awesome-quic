@@ -11,6 +11,19 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 🍖[discord/quic](https://discord.gg/CTH3wv9)  🦖[YoMo](https://yomo.run/)
 
+## QUIC Weekly - 20201118
+
+* 📽 Throwback to [QUIC BoF session in July 2016](https://www.youtube.com/watch?v=aGvFuvmEufs). A Working Group forming meeting to decide if QUIC should be adopted for standardisation into the IETF, based on the exissting deployment experience of Google.
+* 📽 Robin Marx [gave a keynote](https://www.youtube.com/watch?v=SuSpghHP0uI&feature=youtu.be) at IEEE LATINCOM about his experiences doing a PhD on the QUIC and HTTP3 protocols. He talked about their basic features, open research questions and his process in contributing the qlog and qvis debugging tools.
+* [lsquic release 2.24.4](https://github.com/litespeedtech/lsquic), contains fixes to congestion controller and to CID lifecycle.
+* [iOS 14 and macOS Big Sur include an experimental preview of HTTP/3 support](https://developer.apple.com/videos/play/wwdc2020/10111/?time=701) for your apps that use URLSession, which you can enable in developer settings. To enable HTTP/3 macOS Big Sur: `defaults write -g CFNetworkHTTP3Override -int 3`.
+* [Fastly: The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
+* 2020-11-16 [IETF-109 Slide: Tunneling Internet protocols inside QUIC](https://datatracker.ietf.org/meeting/109/materials/slides-109-intarea-tunneling-internet-protocols-inside-quic-00) Rev.00
+
+## QUIC Weekly - 20201111
+
+* 📢 **MASQUE Working Group** [Multiplexed Application Substrate over QUIC Encryption (masque)](https://datatracker.ietf.org/wg/masque/about/)
+
 ## QUIC Weekly - 20201028
 
 * 📢 [DNS-over-QUIC](https://tools.ietf.org/html/draft-ietf-dprive-dnsoquic-01)
