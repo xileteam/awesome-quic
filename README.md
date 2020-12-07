@@ -148,3 +148,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 |------|----------|-----------------|-----------|
 | [kwik](https://bitbucket.org/pjtr/kwik) | draft-29, draft-30, draft-31, draft-32 | library, client | TLS 1.3   |
 
+## Debugging
+
+* [qvis](https://github.com/quiclog/qvis) QUIC and HTTP/3 visualization tools
+* [qlog](https://github.com/quiclog/qlog)  This repository contains various programming language integrations for the qlog format.
