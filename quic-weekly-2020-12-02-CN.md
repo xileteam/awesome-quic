@@ -6,7 +6,7 @@
 
 维护者：🦖[YoMo](https://yomo.run/)
 
-## QUIC Weekly - 20201125期
+## QUIC Weekly - 20201202期
 
 * 📽 Robin Marx 的 [QUIC和HTTP/3的队头阻塞：细节](https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/) [中文版Chinese Version](https://github.com/rmarx/holblocking-blogpost/blob/master/README_CN.md)
 * 📽 Hussein Nasser 的 [QUIC之路 - HTTP/1.1、HTTP/2、HTTP Pipelining、CRIME、HTTP/2队头阻塞、HPACK都错在了哪](https://www.youtube.com/watch?v=jp8lvtZa1a8)
