@@ -1,5 +1,5 @@
 ![Awesome QUIC Logo](https://gitee.com/fanweixiao/awesome-quic/raw/main/awesome-quic-logo.png)
-# Awesome Quic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome QUIC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 关于QUIC协议的论文、IETF进展、博客、视频等等
 
