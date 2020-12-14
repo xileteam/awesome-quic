@@ -1,5 +1,5 @@
 ![Awesome QUIC Logo](https://github.com/fanweixiao/awesome-quic/blob/main/awesome-quic-logo.png?raw=true)
-# Awesome Quic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome QUIC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of various awesome lists for videos, pentesters, libraries and frameworks.
 
