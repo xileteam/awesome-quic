@@ -1,7 +1,7 @@
 QUIC Weekly - 20201104期
 ---
 
-在线社区：🍖[discord/quic](https://discord.gg/CTH3wv9)  🦖[YoMo](https://yomo.run/)
+在线社区：🍖[discord/quic](https://discord.gg/CTH3wv9)  🦖[YoMo](https://github.com/yomorun/yomo/)
 
 * 📢 **load-balancers** [Merged了使用POSIX timestamp的PR，这才对嘛](https://github.com/quicwg/load-balancers/pull/56/files)
 * 📢 **load-balancers** [draft-ietf-quic-load-balancers-05出来了，相比draft-04的更新参考这里](https://www.ietf.org/rfcdiff?url1=draft-ietf-quic-load-balancers-04&url2=draft-ietf-quic-load-balancers-05)

@@ -1,9 +1,9 @@
 A collection of various awesome lists for videos, pentesters, libraries and frameworks.
 
-**QUIC** is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3. We are building an Open source project for IoT & Edge Computing atop QUIC called 🦖[YoMo](https://yomo.run/)
+**QUIC** is the Quick UDP Internet Connections protocol, developed by Google and currently in IETF workgroups for further development. It is being considered for replacing TCP as a transport protocol for HTTP/3. We are building an Open source project for IoT & Edge Computing atop QUIC called 🦖[YoMo](https://github.com/yomorun/yomo/)
 
 Online Community: 🍖[discord/quic](https://discord.gg/CTH3wv9) 
-Maintainer: 🦖[YoMo](https://yomo.run/)
+Maintainer: 🦖[YoMo](https://github.com/yomorun/yomo/)
 
 QUIC Weekly - 20201014
 ---
