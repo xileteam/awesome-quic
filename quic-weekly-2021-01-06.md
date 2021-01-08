@@ -8,6 +8,7 @@ Maintainer: 🦖[YoMo](https://yomo.run/)
 
 ## QUIC Weekly - 20210106
 
+* Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic)
 * [WebTransport](https://w3c.github.io/webtransport/) This specification uses pluggable protocols, with QUIC [QUIC-TRANSPORT] as one such protocol, to send data to and receive data from servers. It can be used like WebSockets but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.
 * [WebTransport Explainer](https://github.com/w3c/webtransport/blob/master/explainer.md)
 * World’s first DNS over QUIC resolver [launched by AdGuard](https://itsecuritywire.com/quick-bytes/worlds-first-dns-over-quic-resolver-launched-by-adguard/)
@@ -17,3 +18,4 @@ Maintainer: 🦖[YoMo](https://yomo.run/)
 * [Pluginizing QUIC](https://cdn.uclouvain.be/groups/cms-editors-ingi/articles/Pluginzing%20QUIC.pdf)
 * [A Performance Perspective on Web Optimized Protocol Stacks: TCP+TLS+HTTP/2 vs. QUIC](https://irtf.org/anrw/2019/anrw2019-final25-acmpaginated.pdf)
 * 2018: [WebTransport + WebCodecs at W3C Games Workshop](https://www.w3.org/2018/12/games-workshop/slides/21-webtransport-webcodecs.pdf)
+* [qlog 0.4.0 released](crates.io/crates/qlog), this one includes a fix to streaming serialization when logging raw bytes and improved logging of DATAGRAM frames.
