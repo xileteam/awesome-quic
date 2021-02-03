@@ -23,7 +23,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 * [Pluginizing QUIC](https://cdn.uclouvain.be/groups/cms-editors-ingi/articles/Pluginzing%20QUIC.pdf)
 * [A Performance Perspective on Web Optimized Protocol Stacks: TCP+TLS+HTTP/2 vs. QUIC](https://irtf.org/anrw/2019/anrw2019-final25-acmpaginated.pdf)
 * 2018: [WebTransport + WebCodecs at W3C Games Workshop](https://www.w3.org/2018/12/games-workshop/slides/21-webtransport-webcodecs.pdf)
-* [qlog 0.4.0 released](crates.io/crates/qlog), this one includes a fix to streaming serialization when logging raw bytes and improved logging of DATAGRAM frames.
+* [qlog 0.4.0 released](https://docs.rs/qlog/0.4.0/qlog/index.html), this one includes a fix to streaming serialization when logging raw bytes and improved logging of DATAGRAM frames.
 
 ## QUIC Weekly - 20201209
 
@@ -76,7 +76,6 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 * **Article** [HTTP/3: Everything you need to know about the next-generation web protocol](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
 * **Article** [QUIC and IoT](https://calendar.perfplanet.com/2018/quic-and-http-3-too-big-to-fail/)
   * One of the oft-touted use cases for QUIC is in Internet-of-Things (IoT) devices, as they often need intermittent (cellular) network access and low-latency connection setup, 0-RTT and better loss resilience are quite interesting in those cases. However, those devices often also have quite slow CPUs.. There are many issues where QUIC’s designers mention the IoT use case and how a certain decision might impact this, though as far as I know there is no stack that has been tested on such hardware yet. Similarly, many issues mention taking into account a hardware QUIC implementation, but at my experience level it’s unclear if this is more wishful thinking and handwaving rather than a guarantee.
-* **Article** [The New Internet: HTTP/3 — No More TCP, let’s QUIC fix it](https://thexbhpguy.medium.com/the-new-internet-http-3-no-more-tcp-lets-quic-fix-it-6a4cbb6280c7)
 
 ## QUIC Weekly - 20201021
 
@@ -139,7 +138,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
 | [picoquic](https://github.com/private-octopus/picoquic)                      | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
 | [Pluginized QUIC](https://github.com/p-quic/pquic)               | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
-| [quant](https://github.com/NTAP/quant)                         | draft-32draft-32                                              | library, client, server                          | TLS 1.3                 |
+| [quant](https://github.com/NTAP/quant)                         | draft-33, draft-34, v1                                              | library, client, server                          | TLS 1.3                 |
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
 
@@ -167,13 +166,13 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 
 | Name    | Version  | Roles                   | Handshake |
 |---------|----------|-------------------------|-----------|
-| [aioquic](https://github.com/aiortc/aioqui) | draft-29 | library, client, server | TLS 1.3   |
+| [aioquic](https://github.com/aiortc/aioquic) | draft-29 | library, client, server | TLS 1.3   |
 
 ### Haskell
 
 | Name         | Version  | Roles                   | Handshake |
 |--------------|----------|-------------------------|-----------|
-| [Haskell quic](https://github.com/kazu-yamamot) | draft-29 | library, client, server | TLS 1.3   |
+| [Haskell quic](https://github.com/kazu-yamamoto/quic) | draft-29 | library, client, server | TLS 1.3   |
 
 ### Java
 

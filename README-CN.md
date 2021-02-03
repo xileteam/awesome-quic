@@ -25,7 +25,7 @@
 * [插件化 QUIC](https://cdn.uclouvain.be/groups/cms-editors-ingi/articles/Pluginzing%20QUIC.pdf)
 * [优化协议栈的性能透视: TCP+TLS+HTTP/2 vs. QUIC](https://irtf.org/anrw/2019/anrw2019-final25-acmpaginated.pdf)
 * 2018: [WebTransport + WebCodecs at W3C Games Workshop](https://www.w3.org/2018/12/games-workshop/slides/21-webtransport-webcodecs.pdf)
-* [qlog 0.4.0 released](crates.io/crates/qlog), 包括对记录原始字节时的流式序列化的修复，以及对DATAGRAM帧记录的改进。
+* [qlog 0.4.0 released](https://docs.rs/qlog/0.4.0/qlog/index.html), 包括对记录原始字节时的流式序列化的修复，以及对DATAGRAM帧记录的改进。
 
 ## QUIC Weekly - 20201209期
 
@@ -100,7 +100,6 @@
 * **Article** [HTTP/3: 你需要知道的下一代互联内网协议](https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol)
 * **Article** [QUIC和物联网IoT](https://calendar.perfplanet.com/2018/quic-and-http-3-too-big-to-fail/)
   * IoT设备是应用QUIC协议的一个好场景，因为这些设备通常工作在无线（蜂窝）网络下（Cellular network），且需要快速建连、0-RTT和重传。但是，这些设备CPU能力普遍较弱。QUIC的作者其实多次提到QUIC对IoT应用场景有很大的提升，可惜的是，至今还没有一套为这个场景设计的协议栈（其实有啊：基于QUIC协议的Edge Computing框架: [🦖YoMo](https://github.com/yomorun/yomo/)）
-* **Article** [未来的Internet: HTTP/3 — No More TCP, let’s QUIC fix it（谐音梗我翻不出来了...）](https://thexbhpguy.medium.com/the-new-internet-http-3-no-more-tcp-lets-quic-fix-it-6a4cbb6280c7)
 
 ## QUIC Weekly - 20201021期
 
@@ -198,7 +197,7 @@
 | Cloudflare's [nginx-cloudflare](https://github.com/cloudflare/quiche/tree/master/extras/nginx) | draft-27, draft-28, draft-29                                  | server                                           | TLSv1.3 (RFC8446)       |
 | [picoquic](https://github.com/private-octopus/picoquic)                      | draft-32/31/30/29/28/27                                       | library and test tools, test client, test server | TLS 1.3 (using picotls) |
 | [Pluginized QUIC](https://github.com/p-quic/pquic)               | draft-29                                                      | library, client, server                          | TLS 1.3 (using picotls) |
-| [quant](https://github.com/NTAP/quant)                         | draft-32draft-32                                              | library, client, server                          | TLS 1.3                 |
+| [quant](https://github.com/NTAP/quant)                         | draft-33, draft-34, v1                                              | library, client, server                          | TLS 1.3                 |
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
 
@@ -226,16 +225,21 @@
 
 | Name    | Version  | Roles                   | Handshake |
 |---------|----------|-------------------------|-----------|
-| [aioquic](https://github.com/aiortc/aioqui) | draft-29 | library, client, server | TLS 1.3   |
+| [aioquic](https://github.com/aiortc/aioquic) | draft-29 | library, client, server | TLS 1.3   |
 
 ### Haskell
 
 | Name         | Version  | Roles                   | Handshake |
 |--------------|----------|-------------------------|-----------|
-| [Haskell quic](https://github.com/kazu-yamamot) | draft-29 | library, client, server | TLS 1.3   |
+| [Haskell quic](https://github.com/kazu-yamamoto/quic) | draft-29 | library, client, server | TLS 1.3   |
 
 ### Java
 
 | Name | Version  | Roles           | Handshake |
 |------|----------|-----------------|-----------|
 | [kwik](https://bitbucket.org/pjtr/kwik) | draft-29, draft-30, draft-31, draft-32 | library, client | TLS 1.3   |
+
+## Debugging
+
+* [qvis](https://github.com/quiclog/qvis) QUIC and HTTP/3 visualization tools
+* [qlog](https://github.com/quiclog/qlog)  This repository contains various programming language integrations for the qlog format.
