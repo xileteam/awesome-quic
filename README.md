@@ -16,7 +16,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 * Version 1.0 of the Microsoft implementation of the QUIC protocol [MSQUIC has been released](https://github.com/microsoft/msquic)
 * [WebTransport](https://w3c.github.io/webtransport/) This specification uses pluggable protocols, with QUIC [QUIC-TRANSPORT] as one such protocol, to send data to and receive data from servers. It can be used like WebSockets but with support for multiple streams, unidirectional streams, out-of-order delivery, and reliable as well as unreliable transport.
 * [WebTransport Explainer](https://github.com/w3c/webtransport/blob/master/explainer.md)
-* World’s first DNS over QUIC resolver [launched by AdGuard](https://itsecuritywire.com/quick-bytes/worlds-first-dns-over-quic-resolver-launched-by-adguard/)
+* World’s first DNS over QUIC resolver [launched by AdGuard](https://www.zdnet.com/article/ad-blocker-adguard-deploys-worlds-first-dns-over-quic-resolver/)
 * [DNS transport: The race is on!](https://centr.org/news/blog/ietf109-dns-transport.html)
 * IEEE Enabling an efficient satellite-terrestrial hybrid transport service through a [QUIC-based proxy function](https://ieeexplore.ieee.org/document/9297334/keywords#keywords)
 * [DPIFuzz: A Differential Fuzzing Framework to Detect DPI Elusion Strategies for QUIC](https://dl.acm.org/doi/pdf/10.1145/3427228.3427662)
