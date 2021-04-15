@@ -22,6 +22,7 @@
 ![](https://daniel.haxx.se/blog/wp-content/uploads/2021/04/Screenshot_2021-04-04-Can-I-use-Support-tables-for-HTML5-CSS3-etc.png)
 * [@Robin](http://twitter.com/programart)  Robin Marx整理的HTTP/3与HTTP/2、HTTP/1.1协议栈的详细对比图片，并且也开源了源文件: [https://github.com/rmarx/h3-protocol-stack](https://github.com/rmarx/h3-protocol-stack)
 ![](https://github.com/rmarx/h3-protocol-stack/blob/main/png/protocol-stack-h2-h3-extended.png?raw=true)
+* [微软的QUIC协议开源实现](https://github.com/microsoft/msquic) 将HTTP/3的基础能力融合进Windows Server 2022，被用于[SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449)功能。该功能是一个相比WebDAV机制更安全的实现，无须再为VPN方案付出额外的费用和复杂的应用机制。也为SMB服务替换掉了TCP/IP和RDMA的传输机制。
 
 ## QUIC Weekly - 20210106期
 

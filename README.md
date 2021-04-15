@@ -20,6 +20,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 ![](https://daniel.haxx.se/blog/wp-content/uploads/2021/04/Screenshot_2021-04-04-Can-I-use-Support-tables-for-HTML5-CSS3-etc.png)
 * [@Robin](http://twitter.com/programart) Draw digram and open source the source file: [https://github.com/rmarx/h3-protocol-stack](https://github.com/rmarx/h3-protocol-stack)
 ![](https://github.com/rmarx/h3-protocol-stack/blob/main/png/protocol-stack-h2-h3-extended.png?raw=true)
+* Microsoft's [open-source implementation of the QUIC protocol](https://github.com/microsoft/msquic) that will form the basis of HTTP/3 will be in Windows Server 2022. It's being used for [SMB over QUIC](https://techcommunity.microsoft.com/t5/itops-talk-blog/smb-over-quic-files-without-the-vpn/ba-p/1183449), which is a more secure replacement for WebDAV to deliver SMB access **without the expense and complexity of a VPN**. This uses QUIC as the transport for SMB **instead of TCP/IP** and RDMA, with a tunnel that secures SMB **even if encryption isn't enabled**. "SMB over QUIC will be available with Azure Automanage and Windows Server 2022," Kumar told TechRepublic. "It will also be supported as a client in Windows 10 and on third-party platforms like Android and others." 
 
 ## QUIC Weekly - 20210106
 
