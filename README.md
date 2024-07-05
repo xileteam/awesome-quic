@@ -152,6 +152,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | [quant](https://github.com/NTAP/quant)                         | draft-33, draft-34, v1                                              | library, client, server                          | TLS 1.3                 |
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
+| [TQUIC](https://github.com/Tencent/tquic)              | v1                           | library, client, server | TLS 1.3           |
 
 ### Rust
 
@@ -160,6 +161,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Cloudflare's [quiche](https://github.com/cloudflare/quiche)    | draft-27, draft-28, draft-29 | library, client, server | TLSv1.3 (RFC8446) |
 | Mozilla/Firefox's [Neqo](https://github.com/mozilla/neqo) | draft-30                     | library, client, server | TLS 1.3           |
 | [Quinn](https://github.com/djc/quinn)                  | draft-28                     | library, client, server | TLS 1.3           |
+| [TQUIC](https://github.com/Tencent/tquic)              | v1                           | library, client, server | TLS 1.3           |
 
 ### Go
 
