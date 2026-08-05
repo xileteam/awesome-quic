@@ -174,6 +174,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Name         | Version  | Roles          | Handshake |
 |--------------|----------|----------------|-----------|
 | [Node.js QUIC](https://github.com/nodejs/quic) | draft-25 | client, server | TLS 1.3   |
+| [quico](https://github.com/colocohen/quico) | v1 | library, client, server | TLS 1.3   |
 
 ### Python
 
