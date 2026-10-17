@@ -153,6 +153,7 @@ A collection of various awesome lists for videos, pentesters, libraries and fram
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
 | [TQUIC](https://github.com/Tencent/tquic)              | v1                           | library, client, server | TLS 1.3           |
+| [quicX](https://github.com/caozhiyi/quicX) | v1, v2 | library, client, server | TLS 1.3 (RFC 8446) |
 
 ### Rust
 

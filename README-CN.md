@@ -211,6 +211,8 @@
 | [quant](https://github.com/NTAP/quant)                         | draft-33, draft-34, v1                                              | library, client, server                          | TLS 1.3                 |
 | Fastly's [quicly](https://github.com/h2o/quicly)               | draft-27                                                      | client, server                                   | TLS 1.3 (final)         |
 | [nginx-quic](https://hg.nginx.org/nginx-quic/)               | draft-27 .. draft-32                                            | server                                   | TLSv1.3 (RFC8446)        |
+| [quicX](https://github.com/caozhiyi/quicX) | v1, v2 | library, client, server | TLS 1.3 (RFC 8446) |
+
 
 ### Rust
 
